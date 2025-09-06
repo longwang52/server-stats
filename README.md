@@ -1,6 +1,6 @@
 # Server Stats
 
-一个 Bash 脚本，用于展示服务器性能信息。此项目来源于 [roadmap.sh Server Stats Project](https://roadmap.sh/projects/server-stats)
+一个 Bash 脚本，用于展示服务器性能信息。此项目来源于 https://roadmap.sh/projects/server-stats
 ## 功能
 - CPU 使用率
 - 内存使用情况
