@@ -17,4 +17,4 @@ git clone https://github.com/你的用户名/server-stats.git
 cd server-stats
 chmod +x server-stats.sh
 ./server-stats.sh
-**```**
+```
